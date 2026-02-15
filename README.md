@@ -1,4 +1,3 @@
-# kisan-drishti
  # Kisan-Drishti 
 *Vernacular-First Agentic Mission Control for Autonomous Agriculture*
 
